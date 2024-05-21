@@ -1,0 +1,47 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: antiquewhite;
+}
+
+header {
+  background-color: #dbe918;
+  padding: 20px;
+  color: rgb(17, 255, 0);
+  text-align: center;
+}
+
+footer {
+  background-color: #282c34;
+  padding: 10px;
+  color: white;
+  text-align: center;
+  position: fixed;
+  width: 100%;
+  bottom: 0;
+}
+
+.App {
+  text-align: center;
+  padding: 20px;
+}
+
+form {
+  margin: 20px 0;
+}
+
+input, textarea {
+  width: 100%;
+  padding: 10px;
+  margin: 10px 0;
+}
+
+button {
+  padding: 10px 20px;
+  background-color: #61dafbc4;
+  border: none;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #21a1f1;
+}
